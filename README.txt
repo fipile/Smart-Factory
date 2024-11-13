@@ -1,6 +1,6 @@
 Projeto de um sistema de delivery de bebidas chamado Licor Express, com capacidade para registros, logins, 
 recuperação de senha e também seguro contra SQL Injection, inicie colocando suas credenciais do seu banco de dados, 
-e usando esse trigger criado para integração entre os bancos de dados users e userpj e o allusers
+e usando esse trigger criado para integração entre os bancos de dados users e userpj e o allusers, projeto começa no main.py
 
 
 DELIMITER //
